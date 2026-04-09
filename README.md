@@ -1,12 +1,12 @@
 # 🛍️ Smart Shopping App - Firebase Based Dynamic Cart Management System
 
-## 👑 Project Lead & Developer
+## 👑 Project Lead & Analyst
 
 | | |
 |---|---|
 | **👨‍💻 Name** | **P. Adarsh** |
 | **Roll Number** | **A24126510152** |
-| **Role** | **Team Leader & Full Stack Developer** |
+| **Role** | **Team Leader & Analyst** |
 
 ---
 
@@ -41,7 +41,8 @@
 ## 🔥 Firebase Configuration
 
 ### Orders Node (with real data)
-![Orders](firebase-orders.png)
+![Orders] <img width="1906" height="920" alt="FIREBASE ORDERS" src="https://github.com/user-attachments/assets/abf5058c-6ab9-4214-b90b-2dc2fe05b4bb" />
+
 
 ### Authentication Users
 ![Auth Users](firebase-auth-users.png)
@@ -52,7 +53,8 @@
 
 | Login Activity | Product Home | Cart Screen |
 |----------------|--------------|-------------|
-| ![Login](login.png) | ![Home](home.png) | ![Cart](cart.png) |
+| ![Login] <img width="476" height="625" alt="{96CE8751-EA9C-469B-9328-3E0E40DBB831}" src="https://github.com/user-attachments/assets/0492ba70-6c9b-4477-b443-c7879d2b8885" />
+ | ![Home](home.png) | ![Cart](cart.png) |
 
 | Checkout | Order History |
 |----------|---------------|
