@@ -60,11 +60,6 @@
 
 ---
 
-## 🎥 Demo Video
-[Watch Demo](demo-video.mp4)
-
----
-
 ## 🔧 How to Run
 
 1. Clone the repo
