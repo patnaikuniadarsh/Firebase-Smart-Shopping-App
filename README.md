@@ -1,12 +1,12 @@
 # 🛍️ Smart Shopping App - Firebase Based Dynamic Cart Management System
 
-## 👑 Project Lead & Analyst
+## 👑 Project Lead & Analyst 
 
 | | |
 |---|---|
 | **👨‍💻 Name** | **P. Adarsh** |
 | **Roll Number** | **A24126510152** |
-| **Role** | **Team Leader & Analyst** |
+| **Role** | **Team Leader & Data Analyst** |
 
 ---
 
@@ -40,27 +40,23 @@
 
 ## 🔥 Firebase Configuration
 
-### Orders Node (with real data)
-![Orders] <img width="1906" height="920" alt="FIREBASE ORDERS" src="https://github.com/user-attachments/assets/abf5058c-6ab9-4214-b90b-2dc2fe05b4bb" />
-
+### Orders Node
+<img src="firebase-orders.png" width="400">
 
 ### Authentication Users
-![Auth Users](firebase-auth-users.png)
+<img src="firebase-auth-users.png" width="400">
 
 ---
 
 ## 📱 App Screenshots
 
-| Login Activity | Product Home | Cart Screen |
-|----------------|--------------|-------------|
-| ![Login] <img width="476" height="625" alt="{96CE8751-EA9C-469B-9328-3E0E40DBB831}" src="https://github.com/user-attachments/assets/0492ba70-6c9b-4477-b443-c7879d2b8885" />
- | ![Home] <img width="285" height="605" alt="activity main" src="https://github.com/user-attachments/assets/eb9172d4-074e-4898-b269-ce9c60c66ec5" />
- | ![Cart] <img width="275" height="608" alt="my cart" src="https://github.com/user-attachments/assets/58648a2e-e5be-479a-b4c1-30e2d782c484" />
- |
+| Login | Product Home | Cart |
+|-------|--------------|------|
+| <img src="login.png" width="200"> | <img src="home.png" width="200"> | <img src="cart.png" width="200"> |
 
 | Checkout | Order History |
 |----------|---------------|
-| ![Checkout](checkout.png) | ![Orders List](orders-list.png) |
+| <img src="checkout.png" width="200"> | <img src="orders-list.png" width="200"> |
 
 ---
 
