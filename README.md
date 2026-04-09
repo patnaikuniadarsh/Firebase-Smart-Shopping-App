@@ -8,8 +8,8 @@
 |---|---|
 | **👨‍💻 Name** | **P. Adarsh** |
 | **Roll Number** | **A24126510152** |
-| **Role** | **Team Leader & Full Stack Android Developer** |
-| **Responsibilities** | Complete app architecture, Firebase integration, CartManager Singleton pattern, Dynamic button state implementation, Checkout & Order History logic, GitHub repository management |
+| **Role** | **Team Leader & Data analyst** |
+
 
 ---
 
@@ -38,19 +38,24 @@
 ## 🔥 Firebase Setup
 
 ### Orders Node (with real data)
-![Orders](firebase-orders.png)
+![Orders] <img width="1906" height="920" alt="FIREBASE ORDERS" src="https://github.com/user-attachments/assets/f8b9f02a-9c7c-4cd0-bbbc-e1088cc6a7b4" />
+
 
 ### Authentication Users
 ![Auth Users](firebase-auth-users.png)
 
 ## 📱 App Screenshots
 
-| Splash | Login | Product Home | Cart | Checkout |
-|--------|-------|--------------|------|----------|
-| Screenshot1 | Screenshot2 | Screenshot3 | Screenshot4 | Screenshot5 |
+1.LOGIN ACTIVITY ![login page](https://github.com/user-attachments/assets/7429e49f-de9d-410f-8e9c-83aa52fce19e)
+2. ACTIVITY MAIN ![activity main menu](https://github.com/user-attachments/assets/1e2bba66-fb7c-4313-ac8e-8580ccfd52ec)
+3. MY CART ![my cart activity](https://github.com/user-attachments/assets/4a357364-eba5-4725-be1a-54d46be1adf5)
+4. ORDERS LISTS ![my orders activity](https://github.com/user-attachments/assets/9aa18720-e9be-42df-947c-d3bcec911a50)
+5. CHECKOUT LIST ![checkout list](https://github.com/user-attachments/assets/289ae20f-3543-4ba7-bafd-61528bc34f77)
+
+
 
 ## 🎥 Demo Video
-[Watch Demo](demo-video.mp4)
+[Watch Demo] 
 
 ## 🔧 How to Run
 1. Clone repo
