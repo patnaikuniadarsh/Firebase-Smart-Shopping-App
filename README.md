@@ -54,7 +54,9 @@
 | Login Activity | Product Home | Cart Screen |
 |----------------|--------------|-------------|
 | ![Login] <img width="476" height="625" alt="{96CE8751-EA9C-469B-9328-3E0E40DBB831}" src="https://github.com/user-attachments/assets/0492ba70-6c9b-4477-b443-c7879d2b8885" />
- | ![Home](home.png) | ![Cart](cart.png) |
+ | ![Home] <img width="285" height="605" alt="activity main" src="https://github.com/user-attachments/assets/eb9172d4-074e-4898-b269-ce9c60c66ec5" />
+ | ![Cart] <img width="275" height="608" alt="my cart" src="https://github.com/user-attachments/assets/58648a2e-e5be-479a-b4c1-30e2d782c484" />
+ |
 
 | Checkout | Order History |
 |----------|---------------|
