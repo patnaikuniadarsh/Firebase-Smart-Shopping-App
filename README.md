@@ -69,9 +69,7 @@
 
 ---
 
----
-
-### 5. Key Technical Achievements (Add this section)
+### 5. Key Technical Achievements
 
 ## 🏆 Key Technical Achievements
 
@@ -84,6 +82,25 @@
 | **Smart Validation** | Phone & address required, name defaults to "Guest" |
 | **Client-side Filtering** | Orders filtered by logged-in user email |
 | **Offline Support** | Firebase caching works without internet |
+
+---
+
+## 🧭 Screen Navigation Details
+
+| From Screen | To Screen | Trigger | Data Passed |
+|-------------|-----------|---------|-------------|
+| SplashScreen | LoginScreen | Click "Start Shopping" | None |
+| LoginScreen | ProductHomeScreen | Successful login | User email via CartManager |
+| LoginScreen | SignupScreen | Click "Don't have account?" | None |
+| SignupScreen | ProductHomeScreen | Successful signup | User email via CartManager |
+| ProductHomeScreen | CartScreen | Click cart icon or "GO TO CART" | Cart items via CartManager |
+| CartScreen | CheckoutScreen | Click "PLACE ORDER" | Cart items, total amount |
+| CheckoutScreen | OrderHistoryScreen | After order placed | Order confirmation |
+| CartScreen | OrderHistoryScreen | Click "RECENT ORDERS" | None |
+| Any Screen | LoginScreen | Session expired / Logout | None |
+
+---
+
 ## 🏫 Institution
 **ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES (A)**
 
