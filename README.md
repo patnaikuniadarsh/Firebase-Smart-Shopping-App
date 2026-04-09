@@ -69,6 +69,21 @@
 
 ---
 
+---
+
+### 5. Key Technical Achievements (Add this section)
+
+## 🏆 Key Technical Achievements
+
+| Achievement | Description |
+|-------------|-------------|
+| **Real-time Sync** | Firebase listeners update UI instantly when database changes |
+| **Singleton Cart** | Single cart instance across all app activities |
+| **Dynamic UI** | "ADDED" button changes color and text on item addition |
+| **Dual Loading** | Local sample data + Firebase data for instant visibility |
+| **Smart Validation** | Phone & address required, name defaults to "Guest" |
+| **Client-side Filtering** | Orders filtered by logged-in user email |
+| **Offline Support** | Firebase caching works without internet |
 ## 🏫 Institution
 **ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES (A)**
 
