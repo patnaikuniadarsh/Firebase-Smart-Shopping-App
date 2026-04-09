@@ -41,8 +41,7 @@
 ## 🔥 Firebase Configuration
 
 ### Orders Node (with real data)
-![Orders] <img width="1906" height="920" alt="FIREBASE ORDERS" src="https://github.com/user-attachments/assets/305877a3-8db0-449c-9d71-20366939379f" />
-
+![Orders](firebase-orders.png)
 
 ### Authentication Users
 ![Auth Users](firebase-auth-users.png)
@@ -53,9 +52,7 @@
 
 | Login Activity | Product Home | Cart Screen |
 |----------------|--------------|-------------|
-| ![Login] ![login page](https://github.com/user-attachments/assets/c4ac1d80-d595-41fd-9f29-b9a4cdd8ab1b)
- | ![Home] ![activity main menu](https://github.com/user-attachments/assets/e77a8c4c-2bf2-47a3-825e-f7f53e0c6c18)
-| ![Cart](cart.png) |
+| ![Login](login.png) | ![Home](home.png) | ![Cart](cart.png) |
 
 | Checkout | Order History |
 |----------|---------------|
