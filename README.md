@@ -62,39 +62,6 @@ A modern Android e-commerce application with **real-time cloud synchronization**
 | UI Components | RecyclerView, CardView, Material Components |
 | Architecture | Model-View-Adapter (MVA) |
 
-## 🗄️ Database Schema
-
-### Products Node (Firebase Realtime Database)
-```json
-{
-  "Products": {
-    "productId": {
-      "id": "prod_001",
-      "name": "Wireless Headphones",
-      "category": "Electronics",
-      "description": "High quality wireless headphones",
-      "imageEmoji": "🎧",
-      "price": 1299.00
-    }
-  }
-}
-
-{
-  "Orders": {
-    "orderId": {
-      "orderId": "-NxK2abc123",
-      "userId": "user@email.com",
-      "customerName": "Guest",
-      "phone": "9876543210",
-      "address": "123 Main Street, Vizag",
-      "itemsSummary": "Headphones x1, Shoes x2",
-      "totalAmount": 3597.00,
-      "timestamp": "2026-04-09 14:35:22"
-    }
-  }
-}
-
-App Screens
 Screen	Description
 Splash Screen	App logo and branding with "Start Shopping" button
 Login Screen	Email/password login, captures session email in CartManager
