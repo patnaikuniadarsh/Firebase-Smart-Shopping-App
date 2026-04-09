@@ -1,13 +1,6 @@
 # 🛍️ Smart Shopping App - Firebase Based Dynamic Cart Management System
 
-## Mobile Application Development Project
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-
----
 
 ## 👑 Project Lead & Developer
 
@@ -30,54 +23,45 @@
 
 ---
 
-## 📌 Project Name
+## ✨ Features
+- Firebase Authentication (Email/Password)
+- Real-time Product Catalog
+- Instant Search with TextWatcher
+- Smart CartManager (Singleton Pattern)
+- Dynamic "ADDED" Button (turns green)
+- Validated Checkout (Phone & Address required)
+- Personalized Order History
 
-**Firebase-Based Smart Shopping Platform with Dynamic Cart Management**
+## 🛠️ Tech Stack
+- Java, Android SDK, Firebase Realtime Database, Firebase Auth
 
-## 📌 Overview
-A modern Android e-commerce application with **real-time cloud synchronization**, **intelligent cart management using Singleton pattern**, and **personalized user experience**. Built with Java and Firebase.
+## 🔥 Firebase Setup
 
-## ✨ Key Features
+### Orders Node (with real data)
+![Orders](firebase-orders.png)
 
-| Feature | Description |
-|---------|-------------|
-| 🔐 Firebase Authentication | Secure email/password login with session email capture |
-| 🛍️ Real-time Product Catalog | Live updates from Firebase Realtime Database |
-| 🔍 Instant Search | TextWatcher filters products as user types |
-| 🛒 Smart CartManager | Singleton pattern - prevents duplicate entries, increments quantities |
-| ✅ Dynamic Button Feedback | "ADDED" button turns green when item is in cart |
-| 📦 Validated Checkout | Phone & address required, name defaults to "Guest" |
-| 📜 Personalized Order History | Client-side filtering shows only current user's orders |
-| 🎨 Material Design UI | Blue (#2196F3) and Green (#4CAF50) theme |
+### Authentication Users
+![Auth Users](firebase-auth-users.png)
 
-## 🛠️ Technologies Used
+## 📱 App Screenshots
 
-| Category | Technology |
-|----------|------------|
-| Language | Java (JDK 17) |
-| Framework | Android SDK |
-| Database | Firebase Realtime Database |
-| Authentication | Firebase Authentication |
-| Design Pattern | Singleton (CartManager) |
-| UI Components | RecyclerView, CardView, Material Components |
-| Architecture | Model-View-Adapter (MVA) |
+| Splash | Login | Product Home | Cart | Checkout |
+|--------|-------|--------------|------|----------|
+| Screenshot1 | Screenshot2 | Screenshot3 | Screenshot4 | Screenshot5 |
 
-Screen	Description
-Splash Screen	App logo and branding with "Start Shopping" button
-Login Screen	Email/password login, captures session email in CartManager
-Signup Screen	New user registration via Firebase Authentication
-Product Home Screen	Grid layout (2 columns) with real-time search, dynamic "ADDED" button
-Cart Screen	List all items, quantities, grand total in pink
-Checkout Screen	Name (optional, defaults to Guest), phone, address validation
-Order History Screen	Past orders filtered by logged-in user email
+## 🎥 Demo Video
+[Watch Demo](demo-video.mp4)
 
-**NAVIGATION FLOW**
-SplashActivity → LoginActivity → SignupActivity (optional)
-                ↓
-        ProductHomeActivity
-                ↓
-           CartActivity
-                ↓
-         CheckoutActivity
+## 🔧 How to Run
+1. Clone repo
+2. Open in Android Studio
+3. Add `google-services.json`
+4. Build and run
+
+## 🏫 Institution
+ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES (A)
+
+## 📅 Year
+2025-2026
                 ↓
         OrderHistoryActivity
